@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NetWatch</string>
+    <string name="app_subtitle">Lightweight Network Monitor</string>
+</resources>

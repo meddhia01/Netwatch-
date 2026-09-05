@@ -1,0 +1,6 @@
+{
+  "name": "NetWatch",
+  "description": "Lightweight local network monitor for Android using real TrafficStats and NetworkStatsManager statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
